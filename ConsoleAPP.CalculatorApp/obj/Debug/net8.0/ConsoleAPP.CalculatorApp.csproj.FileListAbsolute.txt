@@ -1,0 +1,14 @@
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\bin\Debug\net8.0\ConsoleAPP.CalculatorApp.exe
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\bin\Debug\net8.0\ConsoleAPP.CalculatorApp.deps.json
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\bin\Debug\net8.0\ConsoleAPP.CalculatorApp.runtimeconfig.json
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\bin\Debug\net8.0\ConsoleAPP.CalculatorApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\bin\Debug\net8.0\ConsoleAPP.CalculatorApp.pdb
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.AssemblyInfo.cs
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\refint\ConsoleAPP.CalculatorApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.pdb
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ConsoleAPP.CalculatorApp.genruntimeconfig.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.CalculatorApp\obj\Debug\net8.0\ref\ConsoleAPP.CalculatorApp.dll
