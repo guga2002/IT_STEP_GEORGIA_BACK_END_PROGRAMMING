@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lqk7o5PXEcJ3wgs0w4M2pXWVGtJjtaD6vWLTf6wauNRawEp8XznTzWkbHmj6Umv/xJ8KT1x+y3W27Afmab5PVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aapkh\\source\\repos\\ConsoleAPP.AtmConsoleApp\\ConsoleAPP.AtmConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aapkh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

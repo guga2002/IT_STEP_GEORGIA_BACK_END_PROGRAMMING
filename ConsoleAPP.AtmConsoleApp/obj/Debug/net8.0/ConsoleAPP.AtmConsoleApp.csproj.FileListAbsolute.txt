@@ -1,0 +1,17 @@
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\ConsoleAPP.AtmConsoleApp.exe
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\ConsoleAPP.AtmConsoleApp.deps.json
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\ConsoleAPP.AtmConsoleApp.runtimeconfig.json
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\ConsoleAPP.AtmConsoleApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\ConsoleAPP.AtmConsoleApp.pdb
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.csproj.AssemblyReference.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.AssemblyInfo.cs
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.csproj.CopyComplete
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\refint\ConsoleAPP.AtmConsoleApp.dll
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.pdb
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ConsoleAPP.AtmConsoleApp.genruntimeconfig.cache
+C:\Users\aapkh\source\repos\ConsoleAPP.AtmConsoleApp\obj\Debug\net8.0\ref\ConsoleAPP.AtmConsoleApp.dll
