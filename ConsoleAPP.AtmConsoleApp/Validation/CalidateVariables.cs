@@ -28,6 +28,12 @@ namespace ConsoleAPP.AtmConsoleApp.Validation
             if (age == -1) throw new ArgumentException(" argument is null");
             return age > 10 && age <= 120;
         }
+           public static bool ValidateUserName(string? Surname)
+        {
+       if (Surname == null) throw new ArgumentException(" argument is null");
+       string pattern = @"^[a-zA-Z0-9]{2,35}$";
+       return Regex.IsMatch(Surname, pattern);
+        }
 
         public static bool CaptionIsValid(string? caption)
         {
