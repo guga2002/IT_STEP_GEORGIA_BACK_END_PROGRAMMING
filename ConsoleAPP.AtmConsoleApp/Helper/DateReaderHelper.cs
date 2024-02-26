@@ -16,7 +16,7 @@ namespace ConsoleAPP.AtmConsoleApp.Helper
             string login = Console.ReadLine();
             Console.WriteLine("enter Password");
             string Password= Console.ReadLine();
-            if(!CalidateVariables.NameValidate(login))
+          if(!CalidateVariables.ValidateUserName(login))
             {
                 Console.WriteLine( "User ara validuri sheiyvane tavidan");
                 goto Mod;
