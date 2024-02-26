@@ -1,3 +1,4 @@
+TranslateApp -- ია გუგუნავა
 OOP.StudentManagementSystemApp -- ია გუგუნავა
 RandomNumber -- ია გუგუნავა
 ConsoleAPP.AtmConsoleApp -- გ.აფხაზავა
