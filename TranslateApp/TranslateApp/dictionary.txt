@@ -1,0 +1,4 @@
+English:Spanish:Hola
+English:French:Bonjour
+Spanish:English:Hello
+French:English:Hello
