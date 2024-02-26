@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOZVepLoGbz88nc8GiHbfcA/1HqwGDIEUhe96PLCBsuM1VBmdEgyho7p2dc46LHPfl1Y/dKcYGs82ofPyH38iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aapkh\\OneDrive\\Desktop\\OOP.StudentManagementSystemApp\\OOP.StudentManagementSystemApp\\OOP.StudentManagementSystemApp\\OOP.StudentManagementSystemApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aapkh\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",
+    "C:\\Users\\aapkh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aapkh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
