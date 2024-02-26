@@ -17,7 +17,7 @@ namespace ConsoleAPP.AtmConsoleApp.DbContexts
         public bool LoadDate()
         {
             DirectoryInfo info = new DirectoryInfo(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"/ATMSERVICES");
-            if(info.Exists)
+            if(!info.Exists)
             {
                 info.Create();
             }
